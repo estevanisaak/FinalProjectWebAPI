@@ -1,0 +1,242 @@
+[
+  {
+    "Id": 1,
+    "City": "Boston",
+    "Name": "Celtics",
+    "Conference": "Eastern",
+    "Division": "Atlantic",
+    "GamesWon": 51
+  },
+  {
+    "Id": 2,
+    "City": "Brooklyn",
+    "Name": "Nets",
+    "Conference": "Eastern",
+    "Division": "Atlantic",
+    "GamesWon": 44
+  },
+  {
+    "Id": 3,
+    "City": "New York",
+    "Name": "Knicks",
+    "Conference": "Eastern",
+    "Division": "Atlantic",
+    "GamesWon": 37
+  },
+  {
+    "Id": 4,
+    "City": "Philadelphia",
+    "Name": "76ers",
+    "Conference": "Eastern",
+    "Division": "Atlantic",
+    "GamesWon": 51
+  },
+  {
+    "Id": 5,
+    "City": "Toronto",
+    "Name": "Raptors",
+    "Conference": "Eastern",
+    "Division": "Atlantic",
+    "GamesWon": 48
+  },
+  {
+    "Id": 6,
+    "City": "Chicago",
+    "Name": "Bulls",
+    "Conference": "Eastern",
+    "Division": "Central",
+    "GamesWon": 46
+  },
+  {
+    "Id": 7,
+    "City": "Cleveland",
+    "Name": "Cavaliers",
+    "Conference": "Eastern",
+    "Division": "Central",
+    "GamesWon": 44
+  },
+  {
+    "Id": 8,
+    "City": "Detroit",
+    "Name": "Pistons",
+    "Conference": "Eastern",
+    "Division": "Central",
+    "GamesWon": 23
+  },
+  {
+    "Id": 9,
+    "City": "Indiana",
+    "Name": "Pacers",
+    "Conference": "Eastern",
+    "Division": "Central",
+    "GamesWon": 25
+  },
+  {
+    "Id": 10,
+    "City": "Milwaukee",
+    "Name": "Bucks",
+    "Conference": "Eastern",
+    "Division": "Central",
+    "GamesWon": 51
+  },
+  {
+    "Id": 11,
+    "City": "Atlanta",
+    "Name": "Hawks",
+    "Conference": "Eastern",
+    "Division": "Southeast",
+    "GamesWon": 43
+  },
+  {
+    "Id": 12,
+    "City": "Charlotte",
+    "Name": "Hornets",
+    "Conference": "Eastern",
+    "Division": "Southeast",
+    "GamesWon": 43
+  },
+  {
+    "Id": 13,
+    "City": "Miami",
+    "Name": "Heat",
+    "Conference": "Eastern",
+    "Division": "Southeast",
+    "GamesWon": 53
+  },
+  {
+    "Id": 14,
+    "City": "Orlando",
+    "Name": "Magic",
+    "Conference": "Eastern",
+    "Division": "Southeast",
+    "GamesWon": 22
+  },
+  {
+    "Id": 15,
+    "City": "Washington",
+    "Name": "Wizards",
+    "Conference": "Eastern",
+    "Division": "Southeast",
+    "GamesWon": 35
+  },
+  {
+    "Id": 16,
+    "City": "Denver",
+    "Name": "Nuggets",
+    "Conference": "Western",
+    "Division": "Northwest",
+    "GamesWon": 48
+  },
+  {
+    "Id": 17,
+    "City": "Minnesota",
+    "Name": "Timberwolves",
+    "Conference": "Western",
+    "Division": "Northwest",
+    "GamesWon": 46
+  },
+  {
+    "Id": 18,
+    "City": "Oklahoma City",
+    "Name": "Thunder",
+    "Conference": "Western",
+    "Division": "Northwest",
+    "GamesWon": 24
+  },
+  {
+    "Id": 19,
+    "City": "Portland",
+    "Name": "Trail Blazers",
+    "Conference": "Western",
+    "Division": "Northwest",
+    "GamesWon": 27
+  },
+  {
+    "Id": 20,
+    "City": "Utah",
+    "Name": "Jazz",
+    "Conference": "Western",
+    "Division": "Northwest",
+    "GamesWon": 49
+  },
+  {
+    "Id": 21,
+    "City": "Golden State",
+    "Name": "Warriors",
+    "Conference": "Western",
+    "Division": "Pacific",
+    "GamesWon": 53
+  },
+  {
+    "Id": 22,
+    "City": "Los Angeles",
+    "Name": "Clippers",
+    "Conference": "Western",
+    "Division": "Pacific",
+    "GamesWon": 42
+  },
+  {
+    "Id": 23,
+    "City": "Los Angeles",
+    "Name": "Lakers",
+    "Conference": "Western",
+    "Division": "Pacific",
+    "GamesWon": 33
+  },
+  {
+    "Id": 24,
+    "City": "Phoenix",
+    "Name": "Suns",
+    "Conference": "Western",
+    "Division": "Pacific",
+    "GamesWon": 64
+  },
+  {
+    "Id": 25,
+    "City": "Sacramento",
+    "Name": "Kings",
+    "Conference": "Western",
+    "Division": "Pacific",
+    "GamesWon": 30
+  },
+  {
+    "Id": 26,
+    "City": "Dallas",
+    "Name": "Mavericks",
+    "Conference": "Western",
+    "Division": "Southwest",
+    "GamesWon": 52
+  },
+  {
+    "Id": 27,
+    "City": "Houston",
+    "Name": "Rockets",
+    "Conference": "Western",
+    "Division": "Southwest",
+    "GamesWon": 20
+  },
+  {
+    "Id": 28,
+    "City": "Memphis",
+    "Name": "Grizzlies",
+    "Conference": "Western",
+    "Division": "Southwest",
+    "GamesWon": 56
+  },
+  {
+    "Id": 29,
+    "City": "New Orleans",
+    "Name": "Pelicans",
+    "Conference": "Western",
+    "Division": "Southwest",
+    "GamesWon": 36
+  },
+  {
+    "Id": 30,
+    "City": "San Antonio",
+    "Name": "Spurs",
+    "Conference": "Western",
+    "Division": "Southwest",
+    "GamesWon": 34
+  }
+]
